@@ -1,5 +1,1 @@
----
-Python is a High level programing and Interpreted language
-Simple and readable syntax
-Open source
----
+Python is a High-Level,and general purpose programming language desinged to make coding simple and readable.
